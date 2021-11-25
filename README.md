@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p> 
-  I'm a Software engineer working at Paysafe Group. 
+  I'm a Software Engineer working at Paysafe Group. Checkout my GitHub profile. 
 </p>
 
 <!--
