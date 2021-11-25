@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-## 🔧 Langueages & Tools
+## 🔧 Languages & Tools
 <p align='left'>
   <img src="https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg" alt="java" width="40" height="40">
   <img src='https://en.wikipedia.org/wiki/File:Amazon_Web_Services_Logo.svg' height='30' width='auto' alt="aws">
